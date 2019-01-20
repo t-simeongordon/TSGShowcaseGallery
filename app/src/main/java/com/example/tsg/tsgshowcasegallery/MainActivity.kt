@@ -22,5 +22,6 @@ class MainActivity : AppCompatActivity() {
         val intent = Intent(this, ProfileDetails::class.java)
        // intent.putExtra("key", value)
         startActivity(intent)
+        //comment added
     }
 }
