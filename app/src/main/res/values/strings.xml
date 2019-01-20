@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TSGShowcaseGallery</string>
+
+
+    <!-- User - Profile -->
+    <string name="user_name_tv_resource">name</string>
+    <string name="returnUsersName">your name is: %s </string>
+
+    <string name="user_surname_tv_resource">surname</string>
+    <string name="returnUsersSurname">your surname is: %s </string>
+
+    <string name="user_age_tv_resource">age</string>
+    <string name="returnUsersAge">your age is: %s </string>
+
+    <string name="user_address_tv_resource">surname</string>
+    <string name="returnUsersAddress">your surname is: %s </string>
+</resources>
